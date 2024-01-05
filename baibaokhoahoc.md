@@ -1,5 +1,5 @@
 **Tiêu Đề Bài Báo:**
-- Designing Network Design Spaces
+- [Designing Network Design Spaces](https://paperswithcode.com/paper/designing-network-design-spaces)
 
 **Nhóm Tác Giả:**
 - Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollar

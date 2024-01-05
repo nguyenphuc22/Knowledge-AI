@@ -1,21 +1,20 @@
 **Tiêu Đề Bài Báo:**
-- [Designing Network Design Spaces](https://paperswithcode.com/paper/designing-network-design-spaces)
+- [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image ](https://paperswithcode.com/paper/infinite-nature-perpetual-view-generation-of)
 
 **Nhóm Tác Giả:**
-- Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollar
+-  Andrew Liu, Richard Tucker, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa
 
 **Năm Xuất Bản:**
-- 2020
+- 2021
 
 **Tên Hội Nghị/Tạp Chí:**
-- CVPR (Rank A*)
+- ICCV (Rank A*)
 
 **Số Trang:**
-- 12
+- 17
 
 **Số Lượng Trích Dẫn (Theo Google Scholar):**
-- 1408
+- 92
 
 **Source Code:**
-- [Đã Đóng Gói Thành Thư Viện Chuẩn](https://huggingface.co/timm/regnety_002.pycls_in1k)
-- [Source Đã Run Được](https://colab.research.google.com/drive/1ADMgWVCNfyOsPOI9_SzOMfxS7MHFfhM)
+- [Source Đã Run Được](https://colab.research.google.com/drive/1ZM2norKBpgO_Q3Pj5MS-HoSETHYqWZVT?usp=drive_link)

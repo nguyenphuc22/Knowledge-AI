@@ -1,6 +1,6 @@
 # Phân Công
 
-## 1. Hoàng Minh: Tìm Hiểu Hướng Tiếp Cận
+## 1. Kiều Minh Quân: Tìm Hiểu Hướng Tiếp Cận
 - **Nhiệm vụ**: Phân tích và tóm tắt phần "Hướng tiếp cận" của bài báo. Điều này bao gồm việc mô tả các phương pháp, thuật toán, và chiến lược mà tác giả sử dụng để giải quyết vấn đề.
 - **Chi tiết cần chú ý**:
     - Lý do tác giả chọn hướng tiếp cận này.
@@ -8,7 +8,7 @@
     - Sự khác biệt (nếu có) so với các nghiên cứu trước đó.
 - **Deadline**: Thứ 5 trước 6:00 tối.
 
-## 2. Kiều Minh Quân: Phân Tích Dữ Liệu
+## 2. Hoàng Minh: Phân Tích Dữ Liệu
 - **Nhiệm vụ**: Nghiên cứu và tóm tắt phần "Dữ liệu" trong bài báo. Điều này bao gồm các nguồn dữ liệu, cách thu thập, và cách xử lý dữ liệu.
 - **Chi tiết cần chú ý**:
     - Loại dữ liệu được sử dụng (ví dụ: dữ liệu hình ảnh, văn bản, số, ...).
